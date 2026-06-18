@@ -1,10 +1,15 @@
 ## 🚀 About Me
 
 🔭 Working on Innovative Data & Software Projects
+
 👯 Open to Open-Source Collaboration
+
 🤝 Seeking Learning & Growth Opportunities
+
 🌱 Exploring AI, Cloud, Data Engineering & Full-Stack Development
+
 💬 Ask me about Python, Java, SQL & Data Analytics
+
 ⚡ Building Solutions, One Project at a Time
 
 
