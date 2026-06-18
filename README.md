@@ -1,5 +1,12 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on Data Analytics, Software Development, and Cloud-based projects<br><br>👯 I’m looking to collaborate on Open Source, AI, Data, and Full-Stack Development projects<br><br>🤝 I’m looking for help with System Design, Data Engineering, and Scalable Applications<br><br>🌱 I’m currently learning Artificial Intelligence, Data Engineering, Full-Stack Development, Cloud Computing, and Microsoft Fabric<br><br>💬 Ask me about Python, Java, SQL, Data Analytics, Databases, and Software Development<br><br>⚡ Fun fact: I enjoy exploring different areas of technology and turning ideas into real-world projects
+## 🚀 About Me
+
+🔭 Working on Innovative Data & Software Projects
+👯 Open to Open-Source Collaboration
+🤝 Seeking Learning & Growth Opportunities
+🌱 Exploring AI, Cloud, Data Engineering & Full-Stack Development
+💬 Ask me about Python, Java, SQL & Data Analytics
+⚡ Building Solutions, One Project at a Time
+
 
 
 ## 🌐 Socials:
